@@ -16,6 +16,6 @@ def find_tradingview_links(input_file, output_file):
     print("Links related to 'https://www.tradingview.com/' have been extracted and saved to", output_file)
 
 # Example usage:
-input_file = r"C:\Users\akash\OneDrive\Desktop\scrapper\input_text.txt"  # Provide the path to your input text file
-output_file = r"C:\Users\akash\OneDrive\Desktop\scrapper\tradingview_links.txt"  # Provide the path where you want to save the output
+input_file = r""  # Provide the path to your input text file
+output_file = r""  # Provide the path where you want to save the output
 find_tradingview_links(input_file, output_file)
