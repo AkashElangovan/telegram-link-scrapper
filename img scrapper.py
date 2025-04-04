@@ -38,7 +38,7 @@ def scrape_images_from_urls(input_file, output_folder):
 
 def main():
     input_file = input("Enter the path of the input file: ")
-    output_folder = r"C:\Users\akash\OneDrive\Desktop\scrapper\images"  # Output folder to save images
+    output_folder = r""  # Output folder to save images
     scrape_images_from_urls(input_file, output_folder)
 
 if __name__ == "__main__":
